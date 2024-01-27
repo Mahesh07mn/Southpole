@@ -308,6 +308,20 @@ p{
   padding: 0;
 }
 
+@media only screen and (min-width: 2560px){
+
+  .sec3-h1{
+    font-size: 12em;
+    line-height: 150px;
+  }
+
+  .sec3-p{
+    font-size: 1.2em;
+    width: 40%;
+  }
+
+}
+
 @media only screen and (max-width: 1440px){
 
   .section3-container{
