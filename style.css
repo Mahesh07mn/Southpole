@@ -163,6 +163,23 @@ p{
   text-align: right;
 }
 
+@media only screen and (min-width: 2048px){
+
+  .section1-container{
+    padding: 0rem 2rem 0rem 2rem;
+    background-image: url(source/BG\ -\ l.png);
+  }
+
+  h1{
+    font-size: 17em;
+  }
+
+  p{
+    font-size: 1.2em;
+  }
+  
+}
+
 @media only screen and (max-width: 1440px){
 
   .section1-container{
