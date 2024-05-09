@@ -593,6 +593,16 @@ hr{
 
 }
 
+@media only screen and (min-width: 1512px){
+
+  .wrk{
+    width: 450px;
+    height: 620px;
+    border-radius: 10px;
+  }
+
+}
+
 @media only screen and (max-width: 1440px){
 
   .section5{
